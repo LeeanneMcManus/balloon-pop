@@ -160,7 +160,7 @@ players.sort((p1, p2) => p2.topScore - p1.topScore)
           <i class="fa fa-user"></i>
           ${player.name}
           </span>
-        <span>Score:${player.topScore}</span>
+        <span>score:${player.topScore}</span>
       </div>
     `
   })
